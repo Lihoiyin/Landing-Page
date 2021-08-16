@@ -1,5 +1,5 @@
 # Landing-Page
-Project2 - Landing Page
+Project2 - Landing Page<br>
 This is my Second project for the Udacity's Front End Nanodegree program. Using starter code may be helpful and moer easy to make a better project, but I hope that I can do more myself, so there are not starter code.
 
 # Description
